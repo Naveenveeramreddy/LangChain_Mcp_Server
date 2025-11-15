@@ -15,7 +15,7 @@ Kite Connect API account for stock data
 LLM API access (OpenAI-compatible endpoint)
 🛠️ Installation
 Clone the repository:
-git clone https://github.com/vamsivenkat987/langchain_mcp_server.git
+git clone https://github.com/Naveenveeramreddy/LangChain_Mcp_Server
 cd langchain_mcp_server/mcp
 Install dependencies:
 pip install langchain-mcp-adapters langchain-openai elasticsearch pymongo kiteconnect requests
